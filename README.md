@@ -1,9 +1,9 @@
-# @author Anusha Voloju
-# UID : 677775723
-# Net Id : avoloj2
-# University of Illinois, Chicago
-# CS 582, Spring 2019
-# Final Project - UIC Web Search Engine
+### @author Anusha Voloju
+### UID : 677775723
+### Net Id : avoloj2
+### University of Illinois, Chicago
+### CS 582, Spring 2019
+### Final Project - UIC Web Search Engine
 
 
 Functionality: 
